@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\obj\Debug\LectureClavier2.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\obj\Debug\LectureClavier2.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\bin\Debug\LectureClavier2.pdb
+C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\obj\Debug\LectureClavier2.pdb
+C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\bin\Debug\LectureClavier2.dll.config
+C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\bin\Debug\LectureClavier2.dll
+C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\obj\Debug\LectureClavier2.dll
