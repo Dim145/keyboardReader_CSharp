@@ -5,7 +5,10 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture", "LectureClavier2\Lecture.csproj", "{51337C41-F787-4759-AE6A-413BF6F0845D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClavier", "TestClavier\TestClavier.csproj", "{728F08CA-61FC-4761-AF36-7723696716E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClavier", "TestClavier\TestClavier.csproj", "{FCE4A077-6BB5-4AE6-B8E3-30A252A0A9F2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{51337C41-F787-4759-AE6A-413BF6F0845D} = {51337C41-F787-4759-AE6A-413BF6F0845D}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,10 +19,10 @@ Global
 		{51337C41-F787-4759-AE6A-413BF6F0845D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{51337C41-F787-4759-AE6A-413BF6F0845D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51337C41-F787-4759-AE6A-413BF6F0845D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{728F08CA-61FC-4761-AF36-7723696716E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{728F08CA-61FC-4761-AF36-7723696716E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{728F08CA-61FC-4761-AF36-7723696716E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{728F08CA-61FC-4761-AF36-7723696716E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE4A077-6BB5-4AE6-B8E3-30A252A0A9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE4A077-6BB5-4AE6-B8E3-30A252A0A9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE4A077-6BB5-4AE6-B8E3-30A252A0A9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE4A077-6BB5-4AE6-B8E3-30A252A0A9F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,3 +4,10 @@ C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\bin\Debug\LectureCla
 C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\obj\Debug\Lecture.csproj.CoreCompileInputs.cache
 C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\obj\Debug\LectureClavier2.dll
 C:\Users\dimit\source\repos\LectureClavier2\LectureClavier2\obj\Debug\LectureClavier2.pdb
+C:\Users\dimit\Documents\disque\cours info\Projets\git\keyboardReader\C#\keyboardReader_CSharp\LectureClavier2\bin\Debug\LectureClavier2.dll.config
+C:\Users\dimit\Documents\disque\cours info\Projets\git\keyboardReader\C#\keyboardReader_CSharp\LectureClavier2\bin\Debug\LectureClavier2.dll
+C:\Users\dimit\Documents\disque\cours info\Projets\git\keyboardReader\C#\keyboardReader_CSharp\LectureClavier2\bin\Debug\LectureClavier2.pdb
+C:\Users\dimit\Documents\disque\cours info\Projets\git\keyboardReader\C#\keyboardReader_CSharp\LectureClavier2\obj\Debug\Lecture.csprojAssemblyReference.cache
+C:\Users\dimit\Documents\disque\cours info\Projets\git\keyboardReader\C#\keyboardReader_CSharp\LectureClavier2\obj\Debug\Lecture.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Documents\disque\cours info\Projets\git\keyboardReader\C#\keyboardReader_CSharp\LectureClavier2\obj\Debug\LectureClavier2.dll
+C:\Users\dimit\Documents\disque\cours info\Projets\git\keyboardReader\C#\keyboardReader_CSharp\LectureClavier2\obj\Debug\LectureClavier2.pdb
